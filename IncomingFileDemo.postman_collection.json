@@ -244,7 +244,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "\r\n{\r\n    \"ParentObjectID\":\"00163E71D3361EEBAA9E2F76E9A8158E\",\r\n    \"Name\":\"Postman Incoming Test Document.txt\",\r\n    \"MimeType\":\"text/plain\",\r\n    \"Binary\":\"Y291Y291IGRlIHBvc3RtYW4=\",\r\n    \"Title\":\"Postman Incoming Test Document.txt\"\r\n}\r\n ",
+					"raw": "",
 					"options": {
 						"raw": {
 							"language": "json"
