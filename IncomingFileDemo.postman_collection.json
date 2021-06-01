@@ -117,7 +117,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "\r\n{\r\n    \"ParentObjectID\":\"<uuid from one entry of the preceding result>\",\r\n    \"HouseBankUUID\":\"<some house bank uuid that exists in your system>\",\r\n    \"ContentTypeCode\":\"6\"\r\n\r\n}",
+					"raw": "\r\n{\r\n    \"ParentObjectID\":\"<uuid from one entry of the preceding result>\",\r\n    \"HouseBankUUID\":\"<some house bank uuid that exists in SAP ByDesign and is relevant for your case>\",\r\n    \"ContentTypeCode\":\"6\"\r\n\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
